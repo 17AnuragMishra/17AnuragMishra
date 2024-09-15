@@ -1,4 +1,4 @@
-![👋 Hi there, Anurag here... Greetings of the day! ](https://drive.google.com/file/d/1AFafF8jiOK_tc70B2VsSNgKPvDtbDZ97/view?usp=sharing)
+![👋 Hi there, Anurag here... Greetings of the day! ](https://asset.cloudinary.com/thoughtvibe/079cb579b7b0401093b958eceebb6ef8)
 
 ![Profile views](https://komarev.com/ghpvc/?username=17AnuragMishra&label=Profile%20views&color=0e75b6&style=flat)
 
