@@ -1,7 +1,7 @@
 ![👋 Hi there, Anurag here... Greetings of the day! ](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 # 💫 About Me:
-Final Year Computer Science Student.<br>Software Develoiper ~ Frontend Intern<br>I alwasys get things done<br>Always ready to contribute.<br>Open source contributor to Zulip and TypeHero.<br>Final year Student.
+**1.** Final Year Computer Science Student.<br>**2.** Software Develoiper ~ Frontend Intern.<br>**3. **Always ready to contribute.<br>**4. **Open source contributor to Zulip and TypeHero.
 
 
 ## 🌐 Socials:
