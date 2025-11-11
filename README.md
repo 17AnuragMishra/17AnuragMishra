@@ -8,7 +8,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/17AnuragMishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/17AnuragMishra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/17AnuragMishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragmishra0521@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=17AnuragMishra&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=17AnuragMishra&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=17AnuragMishra&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
